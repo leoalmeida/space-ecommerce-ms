@@ -76,4 +76,9 @@ Replace `<module-directory>` with one of: `service-discovery`, `api-gateway`, `p
 
 ---
 
-For more details, refer to the source code of
+For more details, refer to the source code of each module:
+
+- [api-gateway](api-gateway/)
+- [service-discovery](service-discovery/)
+- [pagamentos-ms](pagamentos-ms/)
+- [pedidos-ms](pedidos-ms/)
